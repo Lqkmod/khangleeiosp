@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/827812928/0d2d75ad-6f8f-43d3-9052-3db7b42125db?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240712T134037Z&X-Amz-Expires=300&X-Amz-Signature=9b3d0552dec40b7ea1c34d2da8bb3b3328e04b914f91dbe82cdf25c4d122070c&X-Amz-SignedHeaders=host&actor_id=132258411&key_id=0&repo_id=827812928&response-content-disposition=attachment%3B%20filename%3DLQ.MOD.KL_1.55.11198192_1720784300.ipa&response-content-type=application%2Foctet-stream</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://i.imgur.com/8YqlHn7.jpeg</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>—</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.shinaov.free.kgvn</string>
+        <key>bundle-version</key>
+        <string>7.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>LQMB</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
